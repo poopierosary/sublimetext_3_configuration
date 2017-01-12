@@ -1,4 +1,5 @@
 [
     //Shortcut keyboard control to open up folders in sublime
-    {"keys": ["ctrl+shift+o"], "command": "prompt_open_folder"}
+    {"keys": ["ctrl+shift+o"], "command": "prompt_open_folder"},
+    {"keys": ["ctrl+alt+a"], "command": "prompt_add_folder"}
 ]
